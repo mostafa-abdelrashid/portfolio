@@ -1,4 +1,5 @@
 # Computer Engineer
+[personal photo](assets/img/WhatsApp Image 2024-06-27 at 12.25.44_df314a39.jpg)
 
 
 ### Education
