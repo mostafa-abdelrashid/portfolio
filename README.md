@@ -2,5 +2,5 @@
 
 
 ### Education
-student at faculty of engineering ain shams universty (sophomore level) /n
-visiting schoolar at ontario tech university
+.student at faculty of engineering ain shams universty (sophomore level) 
+.visiting schoolar at ontario tech university
