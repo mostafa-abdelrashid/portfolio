@@ -13,7 +13,7 @@
 
 ## Projects
 **Air-conditioned safety helmet**
-- The  AC helmet is designed to provide a cooling using a built-in cooling system that circulates cold air, helping to reduce heat stress and enhance comfort during long periods of time. 
+- The helmet is designed to provide cooling using a built-in cooling system that circulates cold air.
 
   
 - [youtube link](https://youtu.be/OSGUbn5lDpQ)
